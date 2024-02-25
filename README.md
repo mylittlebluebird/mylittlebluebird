@@ -9,7 +9,7 @@ INTEL Edge AI SW (900H) 과정을 깃허브에 기록하였습니다.
 
 ## 💼 Project
 ---
-1. ATmega128A 이용한 스마트 IOT 주차장 설계 [link](1. IOT )
+1. ATmega128A 이용한 스마트 IOT 주차장 설계 [link](#1.-IOT)
 2. ADAS 자율주행 SW RC카 설계
 3. Selenium 이용한 Naver, Youtube 크롤링 시스템 개발
 4. Window 지뢰찾기 클론 코딩
