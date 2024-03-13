@@ -19,6 +19,7 @@ INTEL Edge AI SW (900H) 과정을 깃허브에 기록하였습니다.
 ## 📃 Overview
 ---
 ### 1. IOT 주차장 설계
+<img src="(https://github.com/mylittlebluebird/iot_parking_system/blob/27b17032d92430ae6bf945ce79d2603d57776768/img/mp4_to_gif.gif)">
 ### 2. ADAS 자율주행 SW RC카 설계
 ### 3. Naver, Youtube 크롤링 시스템 개발
 ### 4. 지뢰찾기 클론 코딩
