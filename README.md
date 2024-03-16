@@ -58,7 +58,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 > 기 간 : 2023. 12. 25 ~ 2023. 12. 29  
 > 기 술 : C#, SQL    
 >      
-> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>   
 >
 
 
@@ -68,8 +68,9 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 > 설명 :   
 > 역할 :    
 > 기간 : 2024. 02. ~  
-> 사용언어 : Python   
-> [Repositorie](https://github.com/mylittlebluebird/omakase/)  
+> 사용언어 : Python
+>   
+> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>    
 >
 
 
