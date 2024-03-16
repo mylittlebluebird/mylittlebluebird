@@ -1,16 +1,19 @@
-# 💻 PORTFOLIO
----
-한희준(HanHeeJun) - mylittlebluebird  
-
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=random&text=💻PORTFOLIO&section=header&reversal=false&textBg=false&animation=twinkling&desc=mylittlebluebird&descSize=30&descAlign=65&descAlignY=65)
 　
 ## 🙏 INTRO
----
-안녕하세요!
-INTEL Edge AI SW (900H) 과정을 깃허브에 기록하였습니다.  
+안녕하세요!  
+INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니다.  
+
 
 　
 ## ⚙ Skills
----  
+![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![b](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![d](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![f](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![g](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![h](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+　
+## 🛠 IDE
+![a](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![b](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![c](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![d](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 　
 ## 💼 Projects
@@ -19,7 +22,8 @@ INTEL Edge AI SW (900H) 과정을 깃허브에 기록하였습니다.
 > 역할 : Main 서버, Web, DataBase 개발  
 > 기간 : 2023. 11. 20 ~ 2023. 11. 28  
 > 사용언어 : C, HTML, PHP, SQL  
-> [Repositorie](https://github.com/mylittlebluebird/iot_parking_system/)
+>      
+> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 >
 
 > #### 2. 강성노조
@@ -77,4 +81,5 @@ INTEL Edge AI SW (900H) 과정을 깃허브에 기록하였습니다.
 
 ---
 ---
+
 ---
