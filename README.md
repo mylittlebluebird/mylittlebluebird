@@ -43,7 +43,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 >      
 >
 >>  
->> ![gif1](img/gangsung_mov.gif)   
+>> ![gif2](img/gangsung.gif)   
 >
 >
 > <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
