@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=c4ff0e&text=PORTFOLIO&section=header&reversal=false&textBg=false&animation=twinkling&desc=mylittlebluebird&descSize=30&descAlign=56&descAlignY=73&fontAlign=50&fontSize=60)
-
+<div align="center">
 
 　
 ## 🙏 INTRO
@@ -17,17 +17,24 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 ![a](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![b](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![c](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![d](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-　
+　  
+ ## 📅 Schedule
+![png](img/schedule1.PNG) ![png](img/schedule2.PNG)
+
+
+　 
 ## 💼 Projects
-> #### 1. 스마트 IOT 주차장 
-> 설 명 : ATmega128A, Raspberry PI를 이용한 주차장 설계  
-> 역 할 : 팀원  
-> 기 간 : 2023. 11. 20 ~ 2023. 11. 28  
-> 기 술 : C, HTML, PHP, SQL  
+> #### 1. 스마트 IOT 주차장
+> ```
+> 설 명 : ATmega128A를 이용한 주차장 설계  
+> 역 할 : 팀원　　　　　　　　　　　　　　  
+> 기 간 : 2023. 11. 20 ~ 2023. 11. 28　　  
+> 기 술 : C, HTML, PHP, SQL　　
+> ```
 >      
 >
->>  
->> ![gif1](img/iot_parking.gif)   
+>  
+> ![gif1](img/iot_parking.gif)   
 >
 >
 > <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
@@ -41,8 +48,13 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 > 기 간 : 2023. 12. 25 ~ 2023. 12. 29  
 > 기 술 : C#, SQL    
 >      
-> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>   
 >
+>>  
+>> ![gif2](img/find_mine_in_north.gif)   
+>
+>
+> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+> 
 
 
 　
@@ -57,7 +69,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 >> ![gif3](img/omakase.gif)   
 >
 >
-> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+> <a href="https://github.com/mylittlebluebird/omakase">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 > 
 
 
@@ -71,7 +83,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 >      
 >
 >>  
->> ![gif2](img/gangsung.gif)   
+>> ![gif4](img/gangsung.gif)   
 >
 >
 > <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
@@ -82,12 +94,12 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 ## 📃 Side Projects
 > #### 1. 실종아동 성인 얼굴인식 모델 설계 (진행중)
-> 설명 :   
+> 설명 : 실종 당시 사진으로 GAN모델을 이용하여 현재 외모 예상 후 CCTV 얼굴 인식    
 > 역할 :    
 > 기간 : 2024. 02. ~  
 > 사용언어 : Python
 >   
-> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>    
+> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>    
 >
 
 
@@ -95,29 +107,16 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 > #### 2. K-해커톤 (설계중)
 > 설명 :   
 > 역할 :    
-> 기간 : 2024. 02. ~  
+> 기간 : 2024. 03. ~  
 > 사용언어 : Python   
 > [Repositorie](https://github.com/mylittlebluebird/omakase/)  
 >
 
 
 　
----
+## 📞 Contact
+#### 📧 Email : while@kakao.com  
+#### 🖥 Blog : <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)</a>  
 
-
-//깃헙 레포 사용 언어 수
-![1](https://img.shields.io/github/languages/count/beygee/survive)  
-//깃헙 레포 최다빈도 언어
-https://img.shields.io/github/languages/top/beygee/survive
-//깃헙 레포 코드 용량
-https://img.shields.io/github/languages/code-size/beygee/survive
-//깃헙 레포 용량
-https://img.shields.io/github/repo-size/beygee/survive
-//깃헙 레포 오픈 이슈 개수
-https://img.shields.io/github/issues/beygee/survive
-//깃헙 레포 닫힌 이슈 개수
-https://img.shields.io/github/issues-closed/beygee/survive
-//깃헙 레포 주간 커밋 수
-https://img.shields.io/github/commit-activity/w/beygee/survive
-//깃헙 레포 라스트 커밋 날짜
-https://img.shields.io/github/last-commit/beygee/survive
+</div>
+　
