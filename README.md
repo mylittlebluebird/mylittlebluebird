@@ -30,12 +30,40 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 >> ![gif1](img/iot_parking.gif)   
 >
 >
-> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >  
 
 
 　 
-> #### 2. 강성노조
+> #### 2. 북쪽지뢰찾기
+> 설 명 : Windows 지뢰찾기 클론 코딩  
+> 역 할 : `팀장`    
+> 기 간 : 2023. 12. 25 ~ 2023. 12. 29  
+> 기 술 : C#, SQL    
+>      
+> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>   
+>
+
+
+　
+> #### 3. 오마카세
+> 설 명 : 네이버 지도 파주운정지역 리뷰 기반 맛집 키워드 검색 시스템   
+> 역 할 : `팀장`   
+> 기 간 : 2024. 02. 12 ~ 2024. 02. 22  
+> 기 술 : Python, Selenium, Natural Language Processing  
+>      
+>
+>>  
+>> ![gif3](img/omakase.gif)   
+>
+>
+> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+> 
+
+
+　
+　  
+> #### 4. 강성노조
 > 설 명 : ADAS 자율주행 SW RC카 설계  
 > 역 할 : `소프트웨어 팀장`   
 > 기 간 : 2024. 02. 26 ~ 2024. 03. 08  
@@ -46,33 +74,12 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 >> ![gif2](img/gangsung.gif)   
 >
 >
-> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GO%20Repositorie-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 > 
 
 
 　  
-> #### 3. 오마카세
-> 설 명 : 네이버 지도 파주운정지역 리뷰 기반 맛집 키워드 검색 시스템   
-> 역 할 : `팀장`   
-> 기 간 : 2024. 02. 12 ~ 2024. 02. 22  
-> 기 술 : Python, Selenium, Natural Language Processing  
->      
-> <a href="https://github.com/mylittlebluebird/iot_parking_system/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
->
 
-
-　
-> #### 4. 북쪽지뢰찾기
-> 설 명 : Windows 지뢰찾기 클론 코딩  
-> 역 할 : `팀장`    
-> 기 간 : 2023. 12. 25 ~ 2023. 12. 29  
-> 기 술 : C#, SQL    
->      
-> <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>   
->
-
-
-　　  
 ## 📃 Side Projects
 > #### 1. 실종아동 성인 얼굴인식 모델 설계 (진행중)
 > 설명 :   
