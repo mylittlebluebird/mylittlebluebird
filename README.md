@@ -10,7 +10,8 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 　
 ## ⚙ Skills  
-![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![b](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![d](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![f](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![g](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![h](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![b](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![c](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![d](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)  
+![f](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![g](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![h](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 　
@@ -129,7 +130,5 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 　
 ## 📞 Contact  
 #### 📧 Email : while@kakao.com  
-#### 🖥 Blog : <a href="https://github.com/shinht97/foot_print_project">![a](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)</a>  
 
 </div>
-　
