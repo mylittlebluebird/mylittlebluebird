@@ -24,7 +24,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
  
  <img src="img/schedule1.PNG" width="500" height="500">　    
  
- <img src="img/schedule2.PNG" width="500" height="250">　
+ <img src="img/schedule2.PNG" width="500" height="150">　
 
 
 　 
