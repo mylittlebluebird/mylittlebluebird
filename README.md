@@ -1,3 +1,7 @@
+<div align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmylittlebluebird&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
 <div align="center"> 
  
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=c4ff0e&text=PORTFOLIO&section=header&reversal=false&textBg=false&animation=twinkling&desc=mylittlebluebird&descSize=30&descAlign=56&descAlignY=73&fontAlign=50&fontSize=60)
@@ -19,12 +23,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 ![a](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![b](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![c](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![d](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-　  
- ## 📅 Schedule  
- 
- <img src="img/schedule1.PNG" width="500" height="500">　    
- 
- <img src="img/schedule2.PNG" width="500" height="150">　
+　 
 
 
 　 
@@ -49,7 +48,7 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 
 # 　  
 
- #### 2. 북쪽지뢰찾기
+ #### 2. 지뢰찾기
  ```
  설 명 : Windows 지뢰찾기 클론 코딩　　  
  역 할 : 팀장　　　　　　　　　　　　　    
@@ -131,4 +130,3 @@ INTEL Edge AI SW (900H) 프로젝트 과정을 깃허브에 기록하였습니�
 ## 📞 Contact  
 #### 📧 Email : while@kakao.com  
 
-</div>
